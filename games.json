@@ -1,0 +1,10 @@
+{
+  "games": [
+    {
+      "id": "xibalba",
+      "name": "Xibalba",
+      "exeName": "Xibalba.exe",
+      "repo": "nolobz/Xibalba"
+    }
+  ]
+}
